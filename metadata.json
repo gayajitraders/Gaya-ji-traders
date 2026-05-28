@@ -1,0 +1,6 @@
+{
+  "name": "QuickStore",
+  "description": "Premium e-commerce and local delivery app for Electronic, Kitchen, and Home Appliances in Jetpack Compose, featuring complete Customer, Admin, and Delivery partners panels with Room persistence, digital receipts download, custom OTP generation, and offline stability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
